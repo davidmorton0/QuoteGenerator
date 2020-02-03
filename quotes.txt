@@ -52,7 +52,8 @@ Ford stood up. "We're safe," he said.
 |"Funny," he intoned funereally, "how just when you think life can’t possibly get any worse it suddenly does."
 |He had found a Nutri-Matic machine which had provided him with a plastic cup filled with a liquid that was almost, but not quite, entirely unlike tea.
 |'Oh no, not again.'
-|"Life," said Marvin dolefully, "loathe it or ignore it, you can't like it."
+|"Life," said Marvin dolefully,
+"loathe it or ignore it, you can't like it."
 |For instance, on the planet Earth, man had always assumed that he was more intelligent than dolphins because he had achieved so much—the wheel, New York, wars and so on—whilst all the dolphins had ever done was muck about in the water having a good time. But conversely, the dolphins had always believed that they were far more intelligent than man—for precisely the same reasons.
 |'So long, and thanks for all the fish.'
 |"Forty-two," said Deep Thought, with infinite majesty and calm...
@@ -69,8 +70,10 @@ Ford stood up. "We're safe," he said.
 |"Simple. I got very bored and depressed, so I went and plugged myself in to its external computer feed. I talked to the computer at great length and explained my view of the Universe to it," said Marvin.
 "And what happened?" pressed Ford.
 "It committed suicide," said Marvin and stalked off back to the Heart of Gold.
-|It said: "The History of every major Galactic Civilization tends to pass through three distinct and recognizable phases, those of Survival, Inquiry and Sophistication, otherwise known as the How, Why and Where phases.
-"For instance, the first phase is characterized by the question ''How can we eat?'' the second by the question ''Why do we eat?'' and the third by the question ''Where shall we have lunch?"''
+|The History of every major Galactic Civilization tends to pass through three distinct and recognizable phases, those of Survival, Inquiry and Sophistication, otherwise known as the How, Why and Where phases.
+For instance, the first phase is characterized by the question 'How can we eat?', 
+the second by the question 'Why do we eat?', 
+and the third by the question 'Where shall we have lunch?'
 |There is a theory which states that if ever anyone discovers exactly what the Universe is for and why it is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable.
 There is another theory which states that this has already happened.
 |In the beginning the Universe was created.
@@ -119,7 +122,7 @@ The insect shook with rage. It could hardly speak.
 "Er, hey, Marvin ..." interrupted Zaphod, but it was too late. Sad little clunks and gurgles came up the line.
 "What's he saying?" asked Trillian.
 "Nothing," said Zaphod, "he just phoned to wash his head at us."
-|"The first ten million years were the worst," said Marvin, "and the second ten million years, they were the worst too. '''The third ten million years I didn't enjoy at all. After that I went into a bit of a decline.'''"
+|"The first ten million years were the worst," said Marvin, "and the second ten million years, they were the worst too. "The third ten million years I didn't enjoy at all. After that I went into a bit of a decline."
 |"The best conversation I had was over forty million years ago," continued Marvin. ..."And that was with a coffee machine."
 |"Amazing-looking ship though. Looks like a fish, moves like a fish, steers like a cow."
 |"Well, I wish you'd just tell me rather than try to engage my enthusiasm," said Marvin, "because I haven't got one."

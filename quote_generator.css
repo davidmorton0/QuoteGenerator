@@ -1,0 +1,98 @@
+body {
+  background-image: url(https://raw.githubusercontent.com/davidmorton0/QuoteGenerator/master/stars-l.jpg);
+  background-size: auto;
+  font-family: 'Titillium Web', sans-serif;
+  font-size: 0.6em;
+  --main-color: #8ca6d1;
+
+}
+
+footer {
+  background-color: black;
+  color: white;
+  position: fixed;
+  left: 5%;
+  bottom: 0;
+  width: 100%;
+}
+
+#app {
+  height: 45vh;
+  width: 300px;
+  margin: 4vh auto;
+  background: linear-gradient(0deg, rgba(0,0,30,0.7), rgba(20,20,140,0.8) 47%);
+  border: solid rgba(20,20,80) 10px;
+}
+
+#quote-box {
+  height: 100%;
+  display: grid;
+  grid-template: 'quote quote' 1fr
+                 'author author'
+                 'new-quote tweet';
+}
+
+#item1 {
+  grid-area: quote;
+}
+
+#item2 {
+  grid-area: author;
+  height: 6vh;
+  padding: 0px 10px;
+  display: flex;
+}
+
+#item3 {
+  grid-area: new-quote;
+  height: 6vh;
+  display: flex;
+  justify-content: center;
+}
+
+#item4 {
+  grid-area: tweet;
+  height: 6vh;
+  display: flex;
+  justify-content: center;
+}
+
+#text {
+  position:absolute;
+  width: 290px;
+  padding: 10px;
+  font-size: 1.4em;
+  color: var(--main-color);
+}
+
+#author {
+  font-size: 1.2em;
+  color: var(--main-color);
+  line-height: 0;
+}
+
+#new-quote, #tweet-quote {
+  border: solid var(--main-color); 1px;
+  background-color: Black;
+  color: var(--main-color);
+  width: 40%;
+  padding: 10px;
+  font-size: 1.2em;
+  text-decoration: none;
+  text-align: center;
+  cursor: pointer;
+}
+
+@media (min-width: 600px) and (min-height: 500px) {
+  body {font-size: 0.9em;}
+  #app  {width: 400px;
+        height: 60vh; }
+  #text { width: 390px; }
+}
+
+@media (min-width: 800px) {
+  body {font-size: 1em;}
+  #app  {width: 600px;
+        height: 50vh; }
+  #text { width: 580px; }
+}
